@@ -1,0 +1,6 @@
+name=input("enter your name:")
+city=input("enter your city:")
+institute=input("enter your institutename:")
+course=input("enter your course:")
+a=(f"I am {name},came to{city} and joined {institute} for {course} course")
+print(a)
