@@ -42,3 +42,10 @@ def palindrome(x):
         palindrome(121)
         palindrome('level')
         palindrome('markram')
+
+
+
+
+        def function():
+            print('i am function 1')
+        function()
