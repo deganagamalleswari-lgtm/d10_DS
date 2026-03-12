@@ -46,6 +46,6 @@ def palindrome(x):
 
 
 
-        def function():
-            print('i am function 1')
-        function()
+def function():
+    print('i am function 1')
+function()
