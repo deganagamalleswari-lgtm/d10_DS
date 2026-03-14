@@ -30,7 +30,7 @@ while x<=num//2:
     if x**x==num:
         is_perfect_square=True
     x+=1
-if perfect_sqaure:
+if is_perfect_square:
     print('it is perfect square')
 else:
     print('it is not perfect square')
